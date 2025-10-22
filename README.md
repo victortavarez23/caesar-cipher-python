@@ -1,5 +1,3 @@
-# Crea el README
-cat > README.md << 'EOF'
 # Caesar Cipher 🔐
 
 Python implementation of the classic Caesar cipher encryption algorithm.
